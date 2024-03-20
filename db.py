@@ -19,13 +19,13 @@ directors = {
 # simulate something created linked to directors
 
 movies = {
-    1 :{
+    "1" :{
         'director': 2,
         'title': 'Burn After Reading',
         'description': "A mysterious comedy about two friends with different motives and similar IQ levels",
         'year': '2008'
     },
-    2 :{
+    "2" :{
         'director': 1,
         'title': 'Nope',
         'description': "Horse-wrangling siblings attempting to capture evidence of an unidentified flying object in Agua Dulce, California",
